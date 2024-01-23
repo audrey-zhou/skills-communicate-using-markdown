@@ -11,3 +11,6 @@ var myVar = "Hello, world!";
 ``` java
 int num = 5;
 ```
+
+- [ ] task1
+- [x] task2
